@@ -1,0 +1,6 @@
+{
+    "names": [
+        "hisat2"
+    ],
+    "wdl": "hisat2.wdl"
+}
